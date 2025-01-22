@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: http://localhost/sitemap-index.xml
+Sitemap: https://brianrodriguez.xyz/sitemap-index.xml
